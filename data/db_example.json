@@ -1,0 +1,8 @@
+{
+  "rooms": [
+    { "id": 1, "number": 123, "title": "room #1" }
+  ],
+  "users": [
+    { "id": 1, "fullName": "test user", "postId": 1 }
+  ]
+}
